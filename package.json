@@ -1,0 +1,23 @@
+{
+  "name": "curso-nodejs",
+  "version": "0.0.1",
+  "description": "introduccion a nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandahoyos/introduccion-al-desarrollo-backend-con-nodejs-y-express.git"
+  },
+  "author": "Juan David Hoyos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juandahoyos/introduccion-al-desarrollo-backend-con-nodejs-y-express/issues"
+  },
+  "homepage": "https://github.com/juandahoyos/introduccion-al-desarrollo-backend-con-nodejs-y-express#readme",
+  "dependencies": {
+    "countries-list": "^2.5.4"
+  }
+}
